@@ -4,6 +4,8 @@
 
 **Members**: Jonathan Cerullo Uyi, Giovanni Ponzuoli
 
+**Project repo URL** -> https://github.com/JonnyCerullo/NAOproject.git
+
 Instructions to run the project:
 
 1. Use the NAO Virtual Machine
